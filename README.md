@@ -1,2 +1,2 @@
 # covid_visualizer
-Simple College project for visualisation of covid-19 effected people in India
+A project for visualisation of covid-19 effected people in India using python
