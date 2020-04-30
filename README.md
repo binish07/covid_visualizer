@@ -24,26 +24,23 @@ apt-get install python-tk
 
 Please refer to the official websites of the respective packages for machine specific instructions
 
+## How to run the program
+ 1. After installing the required dependencies ( Machine specific instructions are not given for redundancy )
+ 2. One can download all the required files to run the script from the "Clone or Download" button from the repository.
+ 3. After downloading the zip file, extract the files inside it in a suitable folder.
+ 4. Open a terminal and navigate to that folder .
+ 5. run python3 main.py
 
-## Running the tests
+### Note
+Different systems have different default fonts and screen resolution
 
-Explain how to run the automated tests for this system
+Some specific fonts might not work on different system
 
-### Break down into end to end tests
+Hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we made
 
-Explain what these tests test and why
+### [A snap of graph on 30-Apr-2020]
+![](https://github.com/jec2018/covid_visualizer/blob/master/treemap.png)
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 
 ## Built With
@@ -58,10 +55,10 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Ankurjyoti Rabha** - *Initial work* - [update it man](https://github.com/PurpleBooth)
+* **Ankurjyoti Rabha** - *Initial work* - [blog](https://jrankur.home.blog)
 * **Binish Singha** - *Initial work* - [binish07](https://github.com/binish07)
 * **Mahmudul Hasan** - *Initial work* - [mahmud41](https://github.com/mahmud41)
-* **Subhasish Bora** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Subhasish Bora** - *Initial work* - [subhasiz](https://github.com/subhasiz)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -71,6 +68,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* We are thankful to the Jorhat Engineering college for assigning a project to us.
+* We are thankful to the Department of Computer Science and Engineering, JEC, Specially thankful to Professor Mr. Syed Ibtisam Tauhidi Sir for his guidancce
